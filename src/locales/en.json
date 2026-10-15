@@ -37,106 +37,106 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your The Eternal Abyss Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Spawn into the main area, walk the portal ring, and clear your first towers without losing hours of progress on a climb that is out of your range."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Tower Difficulty Order",
+          "description": "Learn how the Insane-to-Nil difficulty chart ranks every tower so you always know whether your next climb is a step up or a wall."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Practice Place Drills",
+          "description": "Drop straight into the room that keeps ending your runs and repeat it until the movement becomes muscle memory before risking a real attempt."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Portal Warning Hints",
+          "description": "Read each portal's one-word warning so you know whether a tower is PUNISHING, JANK, INCONSISTENT, LOOPFAILY, or SCARY before you step through."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending The Eternal Abyss Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Tower List",
+        "Difficulty Chart",
+        "Practice Place"
       ],
       "cards": [
         {
-          "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "badge": "Start",
+          "title": "The Eternal Abyss Beginner Guide",
+          "description": "How tower floors, portals, and difficulty tiers work, plus the safest order for your first climbs.",
+          "href": "/guide/the-eternal-abyss-all-towers"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Guide",
+          "title": "The Eternal Abyss Tower List",
+          "description": "Every named tower in one reference, with the gimmick and difficulty behind each climb.",
+          "href": "/guide/the-eternal-abyss-tower-list"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Guide",
+          "title": "The Eternal Abyss Difficulty Chart",
+          "description": "The full Insane-to-Nil ladder that ranks towers from a reasonable first attempt to untouchable.",
+          "href": "/guide/the-eternal-abyss-difficulty-chart"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Mechanics",
+          "title": "The Eternal Abyss Practice Place",
+          "description": "How practice hubs recreate tower segments so you can drill one room with nothing on the line.",
+          "href": "/mechanics/the-eternal-abyss-practice-place"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Mechanics",
+          "title": "The Eternal Abyss Hints",
+          "description": "Practical tower-order, checkpoint, and pacing habits that beat raw jump skill.",
+          "href": "/mechanics/the-eternal-abyss-hints"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Mechanics",
+          "title": "The Eternal Abyss Warnings",
+          "description": "What every portal tag means and how to pick towers that match your current skill.",
+          "href": "/mechanics/the-eternal-abyss-warnings"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Maps",
+          "title": "The Eternal Abyss Areas",
+          "description": "Every zone, portal, and tower hub, from the 42-tower main area to the branching realms.",
+          "href": "/maps/the-eternal-abyss-areas"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Tier List",
+          "title": "The Eternal Abyss Tier List",
+          "description": "Community rankings for every tower, plus how to read a tier row as a practice plan.",
+          "href": "/comparison/the-eternal-abyss-tier-list"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Community",
+          "title": "The Eternal Abyss Discord",
+          "description": "Where climbers compare routes, share clears, and trade tips for the hardest towers.",
+          "href": "/community/the-eternal-abyss-discord"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is The Eternal Abyss?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "The Eternal Abyss is a high-difficulty Roblox tower obby created by developer bLockerman666. You spawn into a namesake main hub of 42 towers, step through portals to begin each climb, and work your way up obstacle courses that are built to punish rather than welcome you. The game's own description is blunt about it: losing progress and getting frustrated are expected parts of the experience, not bugs.",
+        "The challenge extends well beyond the starting hub. Branching zones such as Pit of Misery, Timeless Manor, and Starry Night each carry their own visual style and difficulty curve, and the developer's stated goal is to eventually host 50 towers in every area. Community difficulty charts, tier lists, and practice places have grown around the game to help climbers choose the right tower and drill the sections that keep ending their runs."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "bLockerman666"
         },
         {
           "label": "Platform",
@@ -144,186 +144,304 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Tower Obby"
         },
         {
           "label": "Visits",
-          "value": "12.6M+"
+          "value": "7.6M+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Main Area Towers",
+          "value": "42"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Difficulty Range",
+          "value": "Insane - Nil"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Release Date",
+          "value": "Jan 5, 2024"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore The Eternal Abyss Wiki",
+      "description": "Eight core The Eternal Abyss topics, from your first climb in the main hub to the full difficulty chart, each with a quick preview and a full guide.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "The Eternal Abyss Beginner Guide",
+          "description": "New player guidance covering the main hub layout, portal system, checkpoint behavior, and early progression so beginners know exactly where to start in The Eternal Abyss.",
+          "href": "/guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Scout the main area and walk the whole portal ring before you commit to any climb."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Start with the single Non-Soul Crushing tower in the 42-tower hub, since it lets you respawn instead of wiping the attempt."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Learn where each checkpoint resets your position, momentum, and camera before you push a full run."
+            },
+            {
+              "label": "4",
+              "detail": "Use a practice place to drill the room that keeps ending your attempts."
+            },
+            {
+              "label": "5",
+              "detail": "Warm up on a tower you have already cleared before you try a new one."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "The Eternal Abyss Gameplay Guide",
+          "description": "The core systems behind every climb, including practice places, tower rushes, recovery tools, and the portal hints that tell you what a tower is really like.",
+          "href": "/mechanics",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Practice",
+              "detail": "Practice places rebuild tower segments so you can repeat one room with nothing on the line."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Rush",
+              "detail": "A tower rush chains several towers into one continuous, no-reset endurance session."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Healing",
+              "detail": "The healing tool restores your run after a bad jump or hazard hit, but it is balanced around scarcity."
+            },
+            {
+              "label": "Hints",
+              "detail": "Portal hints and route notes fill the information gaps the game deliberately leaves open."
+            },
+            {
+              "label": "Secrets",
+              "detail": "Tower secrets reward players who step off the main route to explore."
+            },
+            {
+              "label": "Reset",
+              "detail": "Checkpoints restore your position but not your momentum, so the seconds after a reset decide the run."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "The Eternal Abyss Tower Guides",
+          "description": "Tower-by-tower breakdowns for the named and tiered towers in The Eternal Abyss, covering each climb's gimmick, difficulty, and what makes it stand out.",
+          "href": "/towers",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Void",
+              "detail": "The Tower of Void leans on precise timing and punishes hesitation near the top."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Glory",
+              "detail": "The Tower of Glory is a milestone climb that players treat as a skill benchmark."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Wigglecore",
+              "detail": "The Tower of Wigglecore mixes unusual gimmicks into its platforming."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Insane",
+              "detail": "Insane towers sit at the entry point of the main area's difficulty spread."
+            },
+            {
+              "label": "Horrific",
+              "detail": "Horrific towers stretch the gaps between checkpoints and tighten every jump."
+            },
+            {
+              "label": "Purist",
+              "detail": "Purist towers strip out gimmicks and test raw platforming fundamentals."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "The Eternal Abyss Tier List",
+          "description": "Community tier rankings for every tower in The Eternal Abyss, explaining what each row means and how to read a ranking as a spending plan for your practice hours.",
+          "href": "/comparison/the-eternal-abyss-tier-list",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "The P and SS ceiling picks that shape entire routes and carry the hardest runs."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "S+ and S towers with few real weaknesses and reliable clears."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "A and B picks that hold their own with the right support and route knowledge."
+            },
+            {
+              "label": "C",
+              "detail": "C through X rows kept for challenge runs and collection clears."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "The Eternal Abyss Maps and Areas",
+          "description": "Layout and travel guides for every area in The Eternal Abyss, from the 42-tower main hub to the branching zones and portals that connect them.",
+          "href": "/maps",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Main Hub",
+              "detail": "The namesake starting area holds 42 towers, and only one of them is Non-Soul Crushing."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Misery",
+              "detail": "Pit of Misery carries its precision-heavy concept over from the Eternal Towers of Hell lineage."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Manor",
+              "detail": "Timeless Manor is the indoor second area, with 46 towers built around long technical runs."
+            },
+            {
+              "label": "Starry",
+              "detail": "Starry Night pairs a night-sky theme with brutally hard climbs."
+            },
+            {
+              "label": "Nil",
+              "detail": "The Nil zone offers almost no signposting, so scout the layout before you climb."
+            },
+            {
+              "label": "Horizon",
+              "detail": "The Final Horizon, nicknamed TEA Hell, is the upcoming area that expands the map."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "The Eternal Abyss Tower Walkthrough",
+          "description": "A step-by-step walkthrough of how a The Eternal Abyss climb is structured, from reading the tower name and warning tag to surviving the final floors.",
+          "href": "/guide/the-eternal-abyss-all-towers",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "1",
+              "detail": "Read the tower's name and portal warning tag before you enter, since both telegraph the gimmick."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "2",
+              "detail": "Treat your first attempts as reconnaissance and memorize the timing of each jump."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "3",
+              "detail": "Plan your bail-out point in advance so you never throw a good run chasing a bad idea."
+            },
+            {
+              "label": "4",
+              "detail": "Stop after two consecutive failures on the same section and come back fresh."
+            },
+            {
+              "label": "5",
+              "detail": "Clear a cool-down tower after a hard one to keep your hands and morale steady."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "The Eternal Abyss Warning Tags",
+          "description": "A reference for the warning hint printed on every The Eternal Abyss portal, explaining what each short tag promises about the tower behind it.",
+          "href": "/mechanics/the-eternal-abyss-warnings",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "INCONSISTENT",
+              "detail": "The tower changes rules and quality as you climb, so early jumps feel nothing like late ones."
+            },
+            {
+              "label": "LOOPFAILY",
+              "detail": "Fails tend to send you back through content you already cleared, so memorization matters."
+            },
+            {
+              "label": "PUNISHING",
+              "detail": "Mistakes are expensive, with tight timing and brutal fail states."
+            },
+            {
+              "label": "JANK",
+              "detail": "The tower leans on engine quirks, odd hitboxes, and unconventional tech."
+            },
+            {
+              "label": "SCARY",
+              "detail": "Tone and atmosphere carry the challenge rather than raw jump difficulty."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "The Eternal Abyss Updates and Release Information",
+          "description": "Release status, version changes, and development news for The Eternal Abyss, so returning players can catch up on what has changed since launch.",
+          "href": "/comparison/the-eternal-abyss-revamp",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Release",
+              "detail": "The Eternal Abyss launched on Roblox on January 5, 2024, and has drawn more than 7.6 million visits."
+            },
+            {
+              "label": "Revamp",
+              "detail": "Community coverage tracks how the game has been revised since its original release."
+            },
+            {
+              "label": "Lineage",
+              "detail": "The game began as a reiteration of Pit of Misery from the Eternal Towers of Hell lineage."
+            },
+            {
+              "label": "Goal",
+              "detail": "The developer's stated goal is to eventually host 50 towers in every area."
+            },
+            {
+              "label": "Areas",
+              "detail": "Branching zones like Pit of Misery, Timeless Manor, and Starry Night expand the tower pool."
+            },
+            {
+              "label": "Horizon",
+              "detail": "The Final Horizon, or TEA Hell, is teased but not yet fully playable."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "The Eternal Abyss FAQ",
+      "description": "Quick answers to the most common questions about The Eternal Abyss.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is The Eternal Abyss?",
+          "answer": "The Eternal Abyss is a high-difficulty Roblox tower obby by developer bLockerman666. You spawn into a main hub of 42 towers and climb roughly 10-floor obstacle courses through portals, with very little handholding and no penalty-free practice outside dedicated practice places."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is The Eternal Abyss free to play?",
+          "answer": "Yes. The Eternal Abyss is a free Roblox experience, so you only need a Roblox account to start climbing its towers."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How hard is The Eternal Abyss?",
+          "answer": "The Eternal Abyss is deliberately brutal. The easiest content in its main area sits around the Insane tier, the community difficulty chart runs up to Nil, and the game states outright that losing progress is part of the deal."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Does The Eternal Abyss have codes?",
+          "answer": "No active The Eternal Abyss codes are confirmed. The Eternal Abyss has no verified redemption system, so every reward in the game comes from clearing towers rather than entering codes."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Where should beginners start in The Eternal Abyss?",
+          "answer": "Start in the main area and look for the single Non-Soul Crushing tower, which lets you respawn instead of wiping your progress. Warm up there and in a practice place before you attempt any Soul Crushing climb."
+        },
+        {
+          "question": "How many towers are in The Eternal Abyss?",
+          "answer": "The namesake main area of The Eternal Abyss holds 42 towers, and the developer's goal is to reach 50 towers in each area. Timeless Manor adds 46 more, while Pit of Misery, Starry Night, and the upcoming Final Horizon expand the map further."
         }
       ]
     },
