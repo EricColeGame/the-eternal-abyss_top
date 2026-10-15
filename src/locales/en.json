@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "The Eternal Abyss Wiki",
+    "shortName": "The Eternal Abyss",
+    "tagline": "High Difficulty Roblox Tower Obby",
+    "description": "Explore challenging towers, discover unique areas, and master difficult jumps in The Eternal Abyss. Find tower walkthroughs, progression tips, and strategies for Pit of Misery, Timeless Manor, Starry Night, and more.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,22 +26,22 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "The Eternal Abyss Wiki - Tower Guides & Area Maps",
+      "description": "Find The Eternal Abyss Roblox guides, tower walkthroughs, area maps, and difficulty tips for Pit of Misery, Timeless Manor, Starry Night, and more."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "High Difficulty Roblox Tower Obby",
+      "title": "The Eternal Abyss Wiki",
+      "description": "Explore challenging towers, discover unique areas, and master difficult jumps in The Eternal Abyss. Find tower walkthroughs, progression tips, and strategies for Pit of Misery, Timeless Manor, Starry Night, and more.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "7.6M+ Total Visits",
+        "50 Tower Goal per Area",
+        "86% Player Satisfaction",
+        "Jan 5, 2024 Release Date"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
+      "secondaryCta": "Tower Tier List",
+      "tertiaryCta": "Play on Roblox",
       "videoLabel": "Official media"
     },
     "updates": {
@@ -342,8 +342,8 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master The Eternal Abyss?",
+      "description": "From your first tower in Pit of Misery to the hardest verified jumps in Timeless Manor and Starry Night, our community wiki has you covered with free, up-to-date tower walkthroughs and progression tips.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
     }
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "The Eternal Abyss Wiki",
+    "about": "The Eternal Abyss Wiki is an independent fan-built guide hub covering tower walkthroughs, area maps, difficulty tips, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "2026 The Eternal Abyss Wiki. Not affiliated with Roblox.",
+    "description": "High difficulty Roblox tower obby. Conquer hundreds of the world's hardest towers.",
+    "playGame": "Play on Roblox",
     "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "officialYoutube": "Gameplay Videos",
+    "vvBuilder": "Tower Tracker (Community)",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",
