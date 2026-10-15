@@ -19,15 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "The Eternal Abyss Wiki",
+  shortName: "The Eternal Abyss",
+  logoText: "T",
+  tagline: "High Difficulty Roblox Tower Obby",
+  description: "Explore challenging towers, discover unique areas, and master difficult jumps in The Eternal Abyss. Find tower walkthroughs, progression tips, and strategies for Pit of Misery, Timeless Manor, Starry Night, and more.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://the-eternal-abyss.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://the-eternal-abyss.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.roblox.com/games/15873244701/The-Eternal-Abyss",
+  heroVideoId: "LBf_nZd5VxQ", // [HARDEST OBBY] Tower of the Quest for Perfection // Verified // The Eternal Abyss
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",
