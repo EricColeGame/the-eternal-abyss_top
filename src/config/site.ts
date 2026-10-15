@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://discord.gg/theeternalabyss",
     youtube: "https://www.youtube.com/watch?v=LBf_nZd5VxQ",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt-br", "de"],
   defaultLocale: "en",
 };

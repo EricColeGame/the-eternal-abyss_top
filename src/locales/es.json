@@ -1,1 +1,526 @@
-{}
+{
+  "site": {
+    "name": "Wiki de The Eternal Abyss",
+    "shortName": "The Eternal Abyss",
+    "tagline": "Obby de torres de Roblox de alta dificultad",
+    "description": "Explora torres desafiantes, descubre áreas únicas y domina saltos difíciles en The Eternal Abyss. Encuentra guías de torres, consejos de progresión y estrategias para Pit of Misery, Timeless Manor, Starry Night y más.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "towers": "Torres",
+    "mechanics": "Mecánicas",
+    "progression": "Progresión",
+    "maps": "Mapas",
+    "community": "Comunidad",
+    "comparison": "Comparación"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de The Eternal Abyss: guías de torres y mapas de áreas",
+      "description": "Encuentra guías de The Eternal Abyss en Roblox, recorridos de torres, mapas de áreas y consejos de dificultad para Pit of Misery, Timeless Manor, Starry Night y más."
+    },
+    "hero": {
+      "eyebrow": "Obby de torres de Roblox de alta dificultad",
+      "title": "Wiki de The Eternal Abyss",
+      "description": "Explora torres desafiantes, descubre áreas únicas y domina saltos difíciles en The Eternal Abyss. Encuentra guías de torres, consejos de progresión y estrategias para Pit of Misery, Timeless Manor, Starry Night y más.",
+      "stats": [
+        "7,6 M+ de visitas totales",
+        "Meta de 50 torres por área",
+        "86 % de satisfacción de jugadores",
+        "Lanzamiento: 5 de enero de 2024"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Tier list de torres",
+      "tertiaryCta": "Jugar en Roblox",
+      "videoLabel": "Contenido oficial"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu recorrido por The Eternal Abyss",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aparece en el área principal, recorre el anillo de portales y supera tus primeras torres sin perder horas de progreso en una escalada fuera de tu alcance."
+        },
+        {
+          "number": "2",
+          "title": "Orden de dificultad de las torres",
+          "description": "Aprende cómo la tabla de dificultad de Insane a Nil clasifica cada torre para que siempre sepas si tu siguiente ascenso es un avance o un muro."
+        },
+        {
+          "number": "3",
+          "title": "Ejercicios en el Practice Place",
+          "description": "Entra directamente en la sala que arruina tus intentos y repítela hasta que el movimiento se vuelva memoria muscular antes de arriesgarte a un intento real."
+        },
+        {
+          "number": "4",
+          "title": "Avisos de los portales",
+          "description": "Lee el aviso de una sola palabra de cada portal para saber si una torre es PUNISHING, JANK, INCONSISTENT, LOOPFAILY o SCARY antes de cruzarlo."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Guías de The Eternal Abyss en tendencia",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Lista de torres",
+        "Tabla de dificultad",
+        "Practice Place"
+      ],
+      "cards": [
+        {
+          "badge": "Inicio",
+          "title": "Guía para principiantes de The Eternal Abyss",
+          "description": "Cómo funcionan los pisos de las torres, los portales y los niveles de dificultad, además del orden más seguro para tus primeros ascensos.",
+          "href": "/guide/the-eternal-abyss-all-towers"
+        },
+        {
+          "badge": "Guía",
+          "title": "Lista de torres de The Eternal Abyss",
+          "description": "Todas las torres con nombre en una sola referencia, con el truco y la dificultad detrás de cada ascenso.",
+          "href": "/guide/the-eternal-abyss-tower-list"
+        },
+        {
+          "badge": "Guía",
+          "title": "Tabla de dificultad de The Eternal Abyss",
+          "description": "La escala completa de Insane a Nil que clasifica las torres desde un primer intento razonable hasta lo intocable.",
+          "href": "/guide/the-eternal-abyss-difficulty-chart"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "Practice Place de The Eternal Abyss",
+          "description": "Cómo los centros de práctica recrean tramos de torre para que puedas ensayar una sala sin nada en juego.",
+          "href": "/mechanics/the-eternal-abyss-practice-place"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "Consejos de The Eternal Abyss",
+          "description": "Hábitos prácticos de orden de torres, checkpoints y ritmo que superan la habilidad de salto bruta.",
+          "href": "/mechanics/the-eternal-abyss-hints"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "Avisos de The Eternal Abyss",
+          "description": "Qué significa cada etiqueta de portal y cómo elegir torres que encajen con tu habilidad actual.",
+          "href": "/mechanics/the-eternal-abyss-warnings"
+        },
+        {
+          "badge": "Mapas",
+          "title": "Áreas de The Eternal Abyss",
+          "description": "Cada zona, portal y centro de torres, desde el área principal de 42 torres hasta los reinos ramificados.",
+          "href": "/maps/the-eternal-abyss-areas"
+        },
+        {
+          "badge": "Tier List",
+          "title": "Tier list de The Eternal Abyss",
+          "description": "Rankings de la comunidad para cada torre, además de cómo leer una fila de tiers como plan de práctica.",
+          "href": "/comparison/the-eternal-abyss-tier-list"
+        },
+        {
+          "badge": "Comunidad",
+          "title": "Discord de The Eternal Abyss",
+          "description": "Donde los escaladores comparan rutas, comparten logros e intercambian consejos para las torres más difíciles.",
+          "href": "/community/the-eternal-abyss-discord"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es The Eternal Abyss?",
+      "paragraphs": [
+        "The Eternal Abyss es un obby de torres de Roblox de alta dificultad creado por el desarrollador bLockerman666. Apareces en un centro principal homónimo con 42 torres, cruzas portales para empezar cada ascenso y avanzas por circuitos de obstáculos diseñados para castigarte en lugar de darte la bienvenida. La propia descripción del juego lo deja claro: perder progreso y frustrarte son partes esperadas de la experiencia, no errores.",
+        "El desafío se extiende mucho más allá del centro inicial. Zonas ramificadas como Pit of Misery, Timeless Manor y Starry Night tienen su propio estilo visual y curva de dificultad, y el objetivo declarado del desarrollador es llegar a albergar 50 torres en cada área. A su alrededor han crecido tablas de dificultad, tier lists y centros de práctica de la comunidad para ayudar a los escaladores a elegir la torre adecuada y ensayar los tramos que arruinan sus intentos."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "bLockerman666"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Obby de torres"
+        },
+        {
+          "label": "Visitas",
+          "value": "7,6 M+"
+        },
+        {
+          "label": "Torres del área principal",
+          "value": "42"
+        },
+        {
+          "label": "Rango de dificultad",
+          "value": "Insane - Nil"
+        },
+        {
+          "label": "Fecha de lanzamiento",
+          "value": "5 de enero de 2024"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explora la wiki de The Eternal Abyss",
+      "description": "Ocho temas esenciales de The Eternal Abyss, desde tu primer ascenso en el centro principal hasta la tabla de dificultad completa, cada uno con una vista rápida y una guía completa.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de The Eternal Abyss",
+          "description": "Orientación para nuevos jugadores sobre el diseño del centro principal, el sistema de portales, el comportamiento de los checkpoints y la progresión inicial, para que los principiantes sepan exactamente por dónde empezar en The Eternal Abyss.",
+          "href": "/guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Reconoce el área principal y recorre todo el anillo de portales antes de comprometerte con cualquier ascenso."
+            },
+            {
+              "label": "2",
+              "detail": "Empieza por la única torre Non-Soul Crushing del centro de 42 torres, ya que te permite reaparecer en lugar de borrar el intento."
+            },
+            {
+              "label": "3",
+              "detail": "Aprende dónde cada checkpoint restablece tu posición, tu impulso y la cámara antes de lanzarte a una run completa."
+            },
+            {
+              "label": "4",
+              "detail": "Usa un practice place para ensayar la sala que arruina tus intentos una y otra vez."
+            },
+            {
+              "label": "5",
+              "detail": "Calienta con una torre que ya hayas superado antes de intentar una nueva."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de jugabilidad de The Eternal Abyss",
+          "description": "Los sistemas centrales detrás de cada ascenso, incluidos los practice places, los tower rushes, las herramientas de recuperación y los avisos de portal que te dicen cómo es realmente una torre.",
+          "href": "/mechanics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Práctica",
+              "detail": "Los practice places reconstruyen tramos de torre para que repitas una sola sala sin nada en juego."
+            },
+            {
+              "label": "Rush",
+              "detail": "Un tower rush encadena varias torres en una sesión de resistencia continua y sin reinicios."
+            },
+            {
+              "label": "Curación",
+              "detail": "La herramienta de curación recupera tu run tras un mal salto o un golpe de peligro, pero está equilibrada en torno a la escasez."
+            },
+            {
+              "label": "Pistas",
+              "detail": "Las pistas de portal y las notas de ruta cubren los vacíos de información que el juego deja abiertos a propósito."
+            },
+            {
+              "label": "Secretos",
+              "detail": "Los secretos de las torres recompensan a quienes se salen de la ruta principal para explorar."
+            },
+            {
+              "label": "Reinicio",
+              "detail": "Los checkpoints restauran tu posición pero no tu impulso, así que los segundos tras un reinicio deciden la run."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guías de torres de The Eternal Abyss",
+          "description": "Análisis torre por torre de las torres con nombre y clasificadas de The Eternal Abyss, con el truco, la dificultad y lo que hace destacar a cada ascenso.",
+          "href": "/towers",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Void",
+              "detail": "La Tower of Void depende del tiempo preciso y castiga la duda cerca de la cima."
+            },
+            {
+              "label": "Glory",
+              "detail": "La Tower of Glory es un ascenso hito que los jugadores toman como referencia de habilidad."
+            },
+            {
+              "label": "Wigglecore",
+              "detail": "La Tower of Wigglecore mezcla trucos poco habituales en su plataformeo."
+            },
+            {
+              "label": "Insane",
+              "detail": "Las torres Insane marcan el punto de entrada del abanico de dificultad del área principal."
+            },
+            {
+              "label": "Horrific",
+              "detail": "Las torres Horrific amplían los huecos entre checkpoints y ajustan cada salto."
+            },
+            {
+              "label": "Purist",
+              "detail": "Las torres Purist eliminan los trucos y ponen a prueba los fundamentos del plataformeo puro."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Tier list de The Eternal Abyss",
+          "description": "Clasificaciones de la comunidad para cada torre de The Eternal Abyss, explicando qué significa cada fila y cómo leer un ranking como plan de inversión para tus horas de práctica.",
+          "href": "/comparison/the-eternal-abyss-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Las opciones tope P y SS que definen rutas enteras y sostienen las runs más difíciles."
+            },
+            {
+              "label": "A",
+              "detail": "Torres S+ y S con pocas debilidades reales y clears fiables."
+            },
+            {
+              "label": "B",
+              "detail": "Opciones A y B que se mantienen firmes con el apoyo y el conocimiento de ruta adecuados."
+            },
+            {
+              "label": "C",
+              "detail": "Filas de C a X reservadas para runs de desafío y clears de colección."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Mapas y áreas de The Eternal Abyss",
+          "description": "Guías de diseño y desplazamiento por cada área de The Eternal Abyss, desde el centro principal de 42 torres hasta las zonas ramificadas y los portales que las conectan.",
+          "href": "/maps",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Centro principal",
+              "detail": "El área inicial homónima alberga 42 torres y solo una de ellas es Non-Soul Crushing."
+            },
+            {
+              "label": "Misery",
+              "detail": "Pit of Misery arrastra su concepto centrado en la precisión desde el linaje de Eternal Towers of Hell."
+            },
+            {
+              "label": "Manor",
+              "detail": "Timeless Manor es la segunda área interior, con 46 torres construidas en torno a runs técnicas largas."
+            },
+            {
+              "label": "Starry",
+              "detail": "Starry Night combina una temática de cielo nocturno con ascensos brutalmente difíciles."
+            },
+            {
+              "label": "Nil",
+              "detail": "La zona Nil apenas ofrece señalización, así que reconoce el diseño antes de escalar."
+            },
+            {
+              "label": "Horizon",
+              "detail": "The Final Horizon, apodada TEA Hell, es la próxima área que ampliará el mapa."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Recorrido de torres de The Eternal Abyss",
+          "description": "Un recorrido paso a paso de cómo se estructura un ascenso en The Eternal Abyss, desde leer el nombre de la torre y la etiqueta de aviso hasta sobrevivir a los pisos finales.",
+          "href": "/guide/the-eternal-abyss-all-towers",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lee el nombre de la torre y la etiqueta de aviso del portal antes de entrar, ya que ambas anticipan el truco."
+            },
+            {
+              "label": "2",
+              "detail": "Trata tus primeros intentos como reconocimiento y memoriza el tiempo de cada salto."
+            },
+            {
+              "label": "3",
+              "detail": "Planifica tu punto de retirada de antemano para no desperdiciar una buena run persiguiendo una mala idea."
+            },
+            {
+              "label": "4",
+              "detail": "Detente tras dos fallos consecutivos en el mismo tramo y vuelve descansado."
+            },
+            {
+              "label": "5",
+              "detail": "Supera una torre de relajación después de una difícil para mantener las manos y la moral estables."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Etiquetas de aviso de The Eternal Abyss",
+          "description": "Una referencia de las pistas de aviso impresas en cada portal de The Eternal Abyss, explicando qué promete cada etiqueta corta sobre la torre que hay detrás.",
+          "href": "/mechanics/the-eternal-abyss-warnings",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "INCONSISTENT",
+              "detail": "La torre cambia de reglas y de calidad mientras escalas, así que los saltos iniciales no se parecen en nada a los finales."
+            },
+            {
+              "label": "LOOPFAILY",
+              "detail": "Los fallos tienden a devolverte por contenido que ya superaste, así que la memorización importa."
+            },
+            {
+              "label": "PUNISHING",
+              "detail": "Los errores salen caros, con tiempos ajustados y estados de fallo brutales."
+            },
+            {
+              "label": "JANK",
+              "detail": "La torre se apoya en rarezas del motor, hitboxes extrañas y técnicas poco convencionales."
+            },
+            {
+              "label": "SCARY",
+              "detail": "El tono y la atmósfera cargan con el desafío más que la dificultad de salto pura."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Actualizaciones e información de lanzamiento de The Eternal Abyss",
+          "description": "Estado de lanzamiento, cambios de versión y noticias de desarrollo de The Eternal Abyss, para que los jugadores que regresan se pongan al día sobre lo que ha cambiado desde el estreno.",
+          "href": "/comparison/the-eternal-abyss-revamp",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lanzamiento",
+              "detail": "The Eternal Abyss se estrenó en Roblox el 5 de enero de 2024 y ha superado los 7,6 millones de visitas."
+            },
+            {
+              "label": "Revamp",
+              "detail": "La cobertura de la comunidad sigue cómo se ha revisado el juego desde su lanzamiento original."
+            },
+            {
+              "label": "Linaje",
+              "detail": "El juego nació como una reelaboración de Pit of Misery del linaje de Eternal Towers of Hell."
+            },
+            {
+              "label": "Meta",
+              "detail": "El objetivo declarado del desarrollador es llegar a albergar 50 torres en cada área."
+            },
+            {
+              "label": "Áreas",
+              "detail": "Zonas ramificadas como Pit of Misery, Timeless Manor y Starry Night amplían el conjunto de torres."
+            },
+            {
+              "label": "Horizon",
+              "detail": "The Final Horizon, o TEA Hell, está anunciada pero aún no es totalmente jugable."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes de The Eternal Abyss",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre The Eternal Abyss.",
+      "items": [
+        {
+          "question": "¿Qué es The Eternal Abyss?",
+          "answer": "The Eternal Abyss es un obby de torres de Roblox de alta dificultad del desarrollador bLockerman666. Apareces en un centro principal con 42 torres y escalas circuitos de obstáculos de unas 10 plantas a través de portales, con muy poca ayuda y sin práctica libre de penalizaciones fuera de los practice places dedicados."
+        },
+        {
+          "question": "¿The Eternal Abyss es gratis?",
+          "answer": "Sí. The Eternal Abyss es una experiencia de Roblox gratuita, así que solo necesitas una cuenta de Roblox para empezar a escalar sus torres."
+        },
+        {
+          "question": "¿Qué dificultad tiene The Eternal Abyss?",
+          "answer": "The Eternal Abyss es brutal a propósito. El contenido más fácil de su área principal ronda el nivel Insane, la tabla de dificultad de la comunidad llega hasta Nil, y el juego afirma sin rodeos que perder progreso es parte del trato."
+        },
+        {
+          "question": "¿The Eternal Abyss tiene códigos?",
+          "answer": "No hay códigos activos de The Eternal Abyss confirmados. The Eternal Abyss no tiene un sistema de canje verificado, así que cada recompensa del juego proviene de superar torres y no de introducir códigos."
+        },
+        {
+          "question": "¿Por dónde deberían empezar los principiantes en The Eternal Abyss?",
+          "answer": "Empieza en el área principal y busca la única torre Non-Soul Crushing, que te permite reaparecer en lugar de borrar tu progreso. Calienta allí y en un practice place antes de intentar cualquier ascenso Soul Crushing."
+        },
+        {
+          "question": "¿Cuántas torres hay en The Eternal Abyss?",
+          "answer": "El área principal homónima de The Eternal Abyss alberga 42 torres, y el objetivo del desarrollador es llegar a 50 torres en cada área. Timeless Manor añade 46 más, mientras que Pit of Misery, Starry Night y la próxima Final Horizon amplían aún más el mapa."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar The Eternal Abyss?",
+      "description": "Desde tu primera torre en Pit of Misery hasta los saltos verificados más difíciles de Timeless Manor y Starry Night, nuestra wiki de la comunidad te cubre con recorridos de torres y consejos de progresión gratuitos y actualizados.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de The Eternal Abyss",
+    "overviewDescription": "Todas las guías de The Eternal Abyss en un solo lugar: recorridos de torres, la lista completa de torres, técnicas de salto y tablas de dificultad para planificar tu próximo ascenso."
+  },
+  "towers": {
+    "overviewTitle": "Torres de The Eternal Abyss",
+    "overviewDescription": "Explora las torres de The Eternal Abyss por clase de dificultad, desde ascensos Insane hasta estructuras Catastrophic, Horrific y Purist, además de la Tower of Glory y la Tower of the Quest for Perfection."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de The Eternal Abyss",
+    "overviewDescription": "Aprende cómo funciona realmente The Eternal Abyss: la herramienta de curación, el sistema de pistas, los ejercicios en el practice place, las reglas del tower rush, los secretos ocultos de las torres y los avisos de portal."
+  },
+  "progression": {
+    "overviewTitle": "Progresión en The Eternal Abyss",
+    "overviewDescription": "Sigue tu ascenso por The Eternal Abyss con rankings de dificultad, ELO, clasificaciones, estadísticas y registros de torres completadas."
+  },
+  "maps": {
+    "overviewTitle": "Mapas y áreas de The Eternal Abyss",
+    "overviewDescription": "Navega por cada área de The Eternal Abyss: el mapa del mundo completo, la Nil Zone, el Pit of Misery y el Timeless Manor."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de The Eternal Abyss",
+    "overviewDescription": "Encuentra los servidores de Discord de The Eternal Abyss, hilos de Reddit, información del staff y los centros de la comunidad donde los escaladores comparten rutas."
+  },
+  "comparison": {
+    "overviewTitle": "Comparativas de The Eternal Abyss",
+    "overviewDescription": "Descubre cómo se compara The Eternal Abyss con EToH y JToH, qué cambió el revamp y cómo se clasifican las torres en nuestra tier list."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Contenido oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de The Eternal Abyss",
+    "about": "La wiki de The Eternal Abyss es un centro de guías independiente creado por fans que cubre recorridos de torres, mapas de áreas, consejos de dificultad y conocimientos esenciales del juego tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Wiki de The Eternal Abyss. No afiliada a Roblox.",
+    "description": "Obby de torres de Roblox de alta dificultad. Conquista cientos de las torres más difíciles del mundo.",
+    "playGame": "Jugar en Roblox",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "Vídeos de gameplay",
+    "vvBuilder": "Tower Tracker (comunidad)",
+    "beginnerGuide": "Guía para principiantes",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio",
+    "towerGuides": "Guías de torres",
+    "mechanicsGuides": "Guías de mecánicas",
+    "progressionGuides": "Guías de progresión"
+  }
+}
