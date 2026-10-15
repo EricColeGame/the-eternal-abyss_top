@@ -8,7 +8,14 @@
   },
   "nav": {
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "towers": "Towers",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "maps": "Maps",
+    "community": "Community",
+    "comparison": "Comparison"
   },
   "home": {
     "meta": {
@@ -452,7 +459,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "The Eternal Abyss Guides",
+    "overviewDescription": "Every The Eternal Abyss guide in one place: tower walkthroughs, the complete tower list, jump techniques, and difficulty charts to plan your next climb."
+  },
+  "towers": {
+    "overviewTitle": "The Eternal Abyss Towers",
+    "overviewDescription": "Browse The Eternal Abyss towers by difficulty class, from Insane climbs to Catastrophic, Horrific, and Purist structures, plus the Tower of Glory and the Tower of the Quest for Perfection."
+  },
+  "mechanics": {
+    "overviewTitle": "The Eternal Abyss Mechanics",
+    "overviewDescription": "Learn how The Eternal Abyss really works: the healing tool, hint system, practice place drills, tower rush rules, hidden tower secrets, and portal warnings."
+  },
+  "progression": {
+    "overviewTitle": "The Eternal Abyss Progression",
+    "overviewDescription": "Track your climb through The Eternal Abyss with difficulty rankings, ELO, leaderboards, stats, and tower completion records."
+  },
+  "maps": {
+    "overviewTitle": "The Eternal Abyss Maps & Areas",
+    "overviewDescription": "Navigate every The Eternal Abyss area: the full world map, the Nil Zone, the Pit of Misery, and the Timeless Manor."
+  },
+  "community": {
+    "overviewTitle": "The Eternal Abyss Community",
+    "overviewDescription": "Find The Eternal Abyss Discord servers, Reddit threads, staff information, and the community hubs where tower climbers share routes."
+  },
+  "comparison": {
+    "overviewTitle": "The Eternal Abyss Comparisons",
+    "overviewDescription": "See how The Eternal Abyss compares to EToH and JToH, what the revamp changed, and how the towers rank in our tier list."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -483,10 +517,10 @@
     "officialYoutube": "Gameplay Videos",
     "vvBuilder": "Tower Tracker (Community)",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "towerGuides": "Tower Guides",
+    "mechanicsGuides": "Mechanics Guides",
+    "progressionGuides": "Progression Guides"
   }
 }
